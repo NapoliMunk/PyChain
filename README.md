@@ -15,7 +15,14 @@
  As long as the chain is valid the button will return true.
 </p>
 
+
+# *The Ledger*
 <img src="Photos/Transactions.png"  width=70% height=70%>
 
 
+# Pychain
+
+<p>
+ Full webpage view 
+ </p>
 <img src="Photos/Pychain.png"  width=120% height=120%>
