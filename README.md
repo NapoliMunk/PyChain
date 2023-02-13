@@ -18,4 +18,4 @@
 <img src="Photos/Transactions.png"  width=70% height=70%>
 
 
-<img src="Photos/Pychain.png"  width=85% height=85%>
+<img src="Photos/Pychain.png"  width=120% height=120%>
