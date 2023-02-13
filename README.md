@@ -15,7 +15,7 @@
  As long as the chain is valid the button will return true.
 </p>
 
-<img src="Photos/Transactions.png"  width=60% height=50%>
+<img src="Photos/Transactions.png"  width=70% height=70%>
 
 
-<img src="Photos/Pychain.png"  width=60% height=60%>
+<img src="Photos/Pychain.png"  width=85% height=85%>
