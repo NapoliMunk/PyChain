@@ -17,12 +17,13 @@
 
 
 # *The Ledger*
+
 <img src="Photos/Transactions.png"  width=70% height=70%>
 
 
 # Pychain
 
 <p>
- Full webpage view 
+ Full webpage view, with the validate chain showing "true".
  </p>
-<img src="Photos/Pychain.png"  width=120% height=120%>
+<img src="Photos/Pychain.png"  width=150% height=150%>
